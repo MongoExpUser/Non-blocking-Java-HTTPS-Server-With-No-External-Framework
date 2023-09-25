@@ -83,7 +83,7 @@ import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpPrincipal;
 import com.sun.net.httpserver.HttpsParameters;
 import com.sun.net.httpserver.HttpsConfigurator;
-// import time-realted object(s)
+// import time-related object(s)
 import java.time.Instant;
 
 
