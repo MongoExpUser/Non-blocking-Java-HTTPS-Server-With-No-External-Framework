@@ -1,0 +1,24 @@
+a:link
+{
+    text-decoration : none;
+    color           : grey;
+}
+
+a:visited
+{
+    text-decoration : none;
+    color           : grey;
+    
+}
+
+a:hover
+{
+    text-decoration : grey;
+    color           : orange;
+}
+
+a:active
+{
+    text-decoration : none;
+    color           : grey;
+}
