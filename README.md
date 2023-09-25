@@ -1,4 +1,4 @@
-# Non-blocking-Java-HTTPS-Server-With-No-External-Framework
+# Non-blocking-Java-HTTPS-Server
  A simple vanilla non-blocking Java HTTPS server (No external framework) 
 
  ## A Vanilla Java HTTPS Server's Rendered Page
