@@ -7,7 +7,7 @@
 
 ### 1) Compile and Run WebServer.java:                                                                                             
      * Compile in verbose mode as:
-       javac WebServer.java -g -verbose  && java WebServer
+       javac WebServer.java -g -verbose 
 
      * Run/Start Server  as:
        java WebServer
