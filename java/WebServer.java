@@ -32,7 +32,7 @@
 # *                                                                                                                                     *
 # *     2) You can add your own implemented middlewares and routes as indicated with comments on relevant section of the codes.         *
 # *                                                                                                                                     *
-# *     3) Compile and run in verbose mode aas: javac WebServer.java -g -verbose  && java WebServer                                     *
+# *     3) Compile and run in verbose mode as: javac WebServer.java -g -verbose  && java WebServer                                     *
 # *                                                                                                                                     *
 # **************************************************************************************************************************************/
 
