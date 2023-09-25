@@ -9,7 +9,7 @@
      * Run/Start Server  as:
        java WebServer
      
- ### 2) Generate the keystore.jksfile using the commands below on Linux/Ubuntu and MacOS  (or equivalent commands on Windows):                                                                                            
+ ### 2) Generate the keystore.jksfile (line 479 of WebServer.js) use the commands below on Linux/Ubuntu and MacOS  (or equivalent commands on Windows):                                                                                            
      * Command 1
      openssl pkcs12 -export -out keystore.p12 -inkey key.pem -in cert.pem
      
