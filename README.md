@@ -9,7 +9,7 @@
      * Run/Start Server  as:
        java WebServer
      
- ### 2) Generate the keystore.jksfile (line 479 of WebServer.js):
+ ### 2) Generate the keystore.jksfile (line 479 of WebServer.java):
      * Use the commands below on Linux/Ubuntu and MacOS  (or equivalent commands on Windows): 
  
      ** Command 1
@@ -19,8 +19,8 @@
         keytool -importkeystore -destkeystore keystore.jks -srcstoretype PKCS12 -srckeystore keystore.p12
      
      where:
-     key.pem is the SSL/TLS key file.
-     cert.pem is the SSL/TLS certificate file.
+       key.pem is the SSL/TLS key file.
+       cert.pem is the SSL/TLS certificate file.
 
 
 # License
