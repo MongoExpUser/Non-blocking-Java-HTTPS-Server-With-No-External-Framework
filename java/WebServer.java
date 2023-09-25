@@ -92,11 +92,10 @@ import java.time.Instant;
 /**
 * <hr>
 * <h2>Desciption</h2>
-* The program implements a non-blocking web server (https) 
-* with native Java packages and modules, without any external framework.
+* The program implements a non-blocking web server (https) with native Java packages and modules, without any external framework.
 * It is lightweight and easily extendable by adding routes and middlewareas as deem necessary.
 * <br>
-* This is based on Java version 17 native httpserver  Web Development with  com.sun.net.httpserver.HttpsServer and othe related packages.
+* This is based on Java version 17 native Https Server with  com.sun.net.httpserver.HttpsServer and other related packages.
 * <hr>
 * @author MongoExpuser
 * @version 1.0
