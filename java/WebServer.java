@@ -234,7 +234,7 @@ public class WebServer
       }
     }
 
-    //* Defines routes that handles FileUploadRoute via CURL
+    //* Defines routes that handles FileUploadRoute via CURL or Form
     static class FileUploadRoute implements HttpHandler 
     {
         String uploaddir;
