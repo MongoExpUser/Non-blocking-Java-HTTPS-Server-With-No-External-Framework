@@ -12,7 +12,7 @@
      * Run/Start Server  as:
        java WebServer
      
- ### 2) Generate the keystore.jks file (On line 480 of WebServer.java):
+ ### 2) Generate the keystore.jks file (On line 479 of WebServer.java):
      * Use the commands below on Linux/Ubuntu and MacOS  (or equivalent commands on Windows): 
  
      ** Command 1
