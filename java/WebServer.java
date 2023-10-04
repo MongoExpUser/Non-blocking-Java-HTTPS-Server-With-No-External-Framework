@@ -15,14 +15,14 @@
 # *                                                                                                                                     *
 # *  This module deploys:                                                                                                               *
 # *                                                                                                                                     *                                                                                                              
-# *     1)  A simple vanilla non-blocking Java HTTPS server (No external framework)                                                     *
+# *     1)  A simple vanilla non-blocking Java HTTPS server (No external framework).                                                    *
 # *                                                                                                                                     *
 # *                                                                                                                                     *
 # *  For Production Deployment:                                                                                                         *
 # *                                                                                                                                     *
-# *     1) Add relevant middlewares, as deem necessary                                                                                  *
+# *     1) Add relevant middlewares, as deem necessary.                                                                                 *
 # *                                                                                                                                     *
-# *     2) Add relevant Java native routes, as deem necessary                                                                           *                                                                                                                       
+# *     2) Add relevant Java native routes, as deem necessary.                                                                          *                                                                                                                       
 # *                                                                                                                                     *                                                                                                                                     
 # *     3) Add relevant web server codes (.html, .css and .js codes).                                                                   *
 # *                                                                                                                                     *                                                                                                                             
@@ -32,7 +32,7 @@
 # *                                                                                                                                     *
 # *     2) You can add your own implemented middlewares and routes as indicated with comments on relevant section of the codes.         *
 # *                                                                                                                                     *
-# *     3) Compile and run in verbose mode as: javac WebServer.java -g -verbose  && java WebServer                                     *
+# *     3) Compile and run in verbose mode as: javac WebServer.java -g -verbose  && java WebServer                                      *
 # *                                                                                                                                     *
 # **************************************************************************************************************************************/
 
@@ -95,10 +95,10 @@ import java.time.Instant;
 * The program implements a non-blocking web server (https) with native Java packages and modules, without any external framework.
 * It is lightweight and easily extendable by adding routes and middlewareas as deem necessary.
 * <br>
-* This is based on Java version 17 native Https Server with  com.sun.net.httpserver.HttpsServer and other related packages.
+* This is based on Java version 21 native Https Server with  com.sun.net.httpserver.HttpsServer and other related packages.
 * <hr>
 * @author MongoExpuser
-* @version 1.0
+* @version 1.0.1
 * @since 2023-09-23 
 */
 
