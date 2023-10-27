@@ -59,7 +59,7 @@ import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.stream.Collectors;
 import java.util.Collections;
-// Import HTTP(S) Server-relates and network-related object(s)
+// Import HTTP(S) Server-related and network-related object(s)
 import java.net.URI;
 import java.security.KeyStore;
 import javax.net.ssl.SSLSocket;
