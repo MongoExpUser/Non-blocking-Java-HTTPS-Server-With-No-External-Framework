@@ -473,7 +473,7 @@ public class WebServer
     public void startWebServer() throws Exception 
     {
         int sslPort = 443;
-        String password = "pawword";                                                 // for ssl/tls
+        String password = "password";                                                // for ssl/tls
         String cwd = Paths.get("").toAbsolutePath().toString();                      // "..java";
         String serverDir = "../java";                                                // "..java";
         String keyStoreFilename = String.format("%s/ssl/keystore.jks", serverDir);   // for ssl/tls
